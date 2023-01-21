@@ -1,0 +1,14 @@
+dependences:
+    npm i
+     antd = pra estilizar, é uma opção tipo o material ui
+     @ant-design/icons =  = icones do ant
+     react-redux 
+     @reduxjs/toolkit 
+     axios 
+     chart.js = para criar os graficos
+     html-react-parser = dar um parse em alguns dados html 
+     millify = transforma numeros grandes em strings legiveis
+     moment = da um passe em tempos e datas
+     react-chartjs-2 = renderizar esses graficos
+
+no site do ant designer vc vai ter tipo o site do react icons mas no caso são components, la vai ter coisas como paginação, dropdown, divider, menu..
